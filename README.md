@@ -1,4 +1,4 @@
-<img width="1403" alt="Screenshot 2025-04-19 at 9 18 55 PM" src="https://github.com/user-attachments/assets/896c3df0-db85-4229-b1de-0a200e1be390" />the steps i took 
+THE STEPS I TOOK 
 I created a file, learnt_git new and bashed from the file.
 
 I created a text file and initializ<img width="1412" alt="Screenshot 2025-04-19 at 9 16 34 PM" src="https://github.com/user-attachments/assets/48a08b0e-1b1c-48e8-8cf8-83395d6b0618" />
