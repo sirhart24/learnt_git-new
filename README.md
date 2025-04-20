@@ -1,8 +1,9 @@
 THE STEPS I TOOK 
+
 I created a file, learnt_git new and bashed from the file.
 
-I created a text file and initializ<img width="1412" alt="Screenshot 2025-04-19 at 9 16 34 PM" src="https://github.com/user-attachments/assets/48a08b0e-1b1c-48e8-8cf8-83395d6b0618" />
-ed git 
+I created a text file and initialized git <img width="1412" alt="Screenshot 2025-04-19 at 9 16 34 PM" src="https://github.com/user-attachments/assets/48a08b0e-1b1c-48e8-8cf8-83395d6b0618" />
+
 
 added the text file to staging area and commit <img width="1423" alt="Screenshot 2025-04-19 at 9 17 17 PM" src="https://github.com/user-attachments/assets/fa3ad936-ec92-45d0-9a3f-7c4bd01dbf93" />
 
